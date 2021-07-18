@@ -1,5 +1,4 @@
-# refinitiv-question-three
-
+# 3rd Question
 The application will display the NAV (Net Asset Value) in the console by insert funds name.
 
 ## How to start
